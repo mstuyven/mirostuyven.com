@@ -1,4 +1,4 @@
-import miroImage from '../assets/miro.jpg'
+import miroImage from '../assets/miro.webp'
 import { Icons } from './Icons'
 
 export function Header() {

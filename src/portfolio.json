@@ -1,7 +1,7 @@
 [
   {
     "title": "scoutsheirbrug.be",
-    "image": "scoutsheirbrug.png",
+    "image": "scoutsheirbrug.webp",
     "tags": "jekyll javascript css",
     "description": "The website for Scouts Heirbrug, using Jekyll and markdown files for the content. Started in 2020 because our current website theme was outdated and too generic.",
     "link": "https://scoutsheirbrug.be",
@@ -9,35 +9,35 @@
   },
   {
     "title": "Totemapp",
-    "image": "totemapp.png",
+    "image": "totemapp.webp",
     "tags": "flutter dart",
     "description": "Mobile app to discover all the different totems and traits. Made during my internship at Scouts en Gidsen Vlaanderen.",
     "github": "https://github.com/ScoutsGidsenVL/totem-app-2023"
   },
   {
     "title": "HO-Gids",
-    "image": "hogids.png",
+    "image": "hogids.webp",
     "tags": "flutter dart",
     "description": "Mobile app to give information to scouts leaders during Herfstontmoeting, a yearly event organized by Scouts en Gidsen Vlaanderen. Made as a volunteer of Ploeg IT then later improved during my internship.",
     "github": "https://github.com/ScoutsGidsenVL/ho-gids-2022"
   },
   {
     "title": "Speel op Veilig",
-    "image": "speelopveilig.png",
+    "image": "speelopveilig.webp",
     "tags": "flutter dart",
     "description": "Simple mobile app with information about rules and suggestions for scouting. Made during my internship at Scouts en Gidsen Vlaanderen.",
     "github": "https://github.com/ScoutsGidsenVL/speel-op-veilig-2023"
   },
   {
     "title": "Attest Gen",
-    "image": "attest-gen.png",
+    "image": "attest-gen.webp",
     "tags": "typescript",
     "description": "Tool to generate a PDF based on some fields and a signature. I am using this as a scouts leader.",
     "github": "https://github.com/mstuyven/attest-gen"
   },
   {
     "title": "NBT Viewer",
-    "image": "nbt-viewer.png",
+    "image": "nbt-viewer.webp",
     "tags": "typescript vscode",
     "description": "A VSCode extension to open binary NBT files, which are used in Minecraft. With fancy previews for structure and world files. Has reached 18K installs.",
     "link": "https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt",
@@ -45,7 +45,7 @@
   },
   {
     "title": "misode.github.io",
-    "image": "misode-github-io.png",
+    "image": "misode-github-io.webp",
     "tags": "typescript css",
     "description": "Website with tons of useful tools and resources for people making Minecraft data packs. Started in 2019 as a loot table maker but it has now grown to 1K daily visitors.",
     "link": "https://misode.github.io",
@@ -53,7 +53,7 @@
   },
   {
     "title": "Worldgen Tools",
-    "image": "worldgen-tools.png",
+    "image": "worldgen-tools.webp",
     "tags": "typescript vscode",
     "description": "A VSCode extension to preview some noise and math JSON files used when developing a Minecraft data pack that modifies world generation.",
     "link": "https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools",
@@ -61,21 +61,21 @@
   },
   {
     "title": "Datapack Upgader",
-    "image": "datapack-upgrader.png",
+    "image": "datapack-upgrader.webp",
     "tags": "typescript css",
     "description": "Tool to automatically fix breaking changes in a data pack between major Minecraft version.",
     "github": "https://github.com/misode/upgrader"
   },
   {
     "title": "Gamemode 4 Datapacks",
-    "image": "gamemode4-datapacks.png",
+    "image": "gamemode4-datapacks.webp",
     "tags": "mcfunction python",
     "description": "A large collection of modifications to Minecraft. I joined the team in 2018, but now I mainly do automation and maintenance tasks.",
     "github": "https://github.com/Gamemode4Dev/GM4_Datapacks"
   },
   {
     "title": "gm4.co",
-    "image": "gm4-co.png",
+    "image": "gm4-co.webp",
     "tags": "php javascript css",
     "description": "A website distributing and advertising the Gamemode 4 modules. Originally written by Sparks",
     "link": "https://gm4.co",
@@ -83,7 +83,7 @@
   },
   {
     "title": "Spyglass",
-    "image": "spyglass.png",
+    "image": "spyglass.webp",
     "tags": "typescript",
     "description": "A language server for Minecraft data packs. Written mainly by SPGoding but I have contributed a fair amount.",
     "link": "https://spyglassmc.com/",
@@ -91,28 +91,28 @@
   },
   {
     "title": "Deepslate",
-    "image": "deepslate.png",
+    "image": "deepslate.webp",
     "tags": "typescript",
     "description": "A typescript library for rendering and emulating parts of Minecraft. Used in various of my other projects.",
     "github": "https://github.com/misode/deepslate"
   },
   {
     "title": "Deepslate Rust",
-    "image": "deepslate-rs.png",
+    "image": "deepslate-rs.webp",
     "tags": "rust wasm",
     "description": "Experiment seeing how much faster a rust implementation of Deepslate could be using WASM in the browser. This was my first project in Rust. It turned out to give a 2x performance improvement, but development in Rust was too slow compared to TypeScript.",
     "github": "https://github.com/misode/deepslate-rs"
   },
   {
     "title": "Mcmeta",
-    "image": "mcmeta.png",
+    "image": "mcmeta.webp",
     "tags": "python",
     "description": "Processed, version controlled history of Minecraft's generated data and assets. Autoomated python script that runs for every new version.",
     "github": "https://github.com/misode/mcmeta"
   },
   {
     "title": "Minecraft Bingo",
-    "image": "minecraft-bingo.png",
+    "image": "minecraft-bingo.webp",
     "tags": "javascript css",
     "description": "Website where everyone can generate a random card of random events that could happen during Minecraft Live.",
     "link": "https://misode.github.io/bingo/",
@@ -120,42 +120,42 @@
   },
   {
     "title": "Worldgen Profiling",
-    "image": "worldgen-profiling.png",
+    "image": "worldgen-profiling.webp",
     "tags": "java",
     "description": "A Minecraft Java mod that hooks into the JFR profiling system to provide more details for world generation.",
     "github": "https://github.com/misode/worldgen-profiling"
   },
   {
     "title": "Advent of Code",
-    "image": "advent-of-code.png",
+    "image": "advent-of-code.webp",
     "tags": "python",
     "description": "Participating in the Advent of Code competitive coding puzzles. In 2022 I completed all the days for the first time.",
     "github": "https://github.com/misode/AdventOfCode2022"
   },
   {
     "title": "Brigadier TypeScript",
-    "image": "brigadier-ts.png",
+    "image": "brigadier-ts.webp",
     "tags": "typescript",
     "description": "A TypeScript port of Mojang/brigadier. This was my first TypeScript project and what got me to love the language.",
     "github": "https://github.com/misode/brigadier-ts"
   },
   {
     "title": "Skymode4",
-    "image": "skymode4.png",
+    "image": "skymode4.webp",
     "tags": "mcfunction python",
     "description": "A custom Minecraft map started in 2017, never completely finished. The goal was a skyblock map integrating different Gamemode 4 modules.",
     "github": "https://github.com/misode/Skymode4"
   },
   {
     "title": "Mijnlieff",
-    "image": "mijnlieff.png",
+    "image": "mijnlieff.webp",
     "tags": "java",
     "description": "Multiplayer board game using JavaFX. Made as a project at UGent.",
     "github": "https://github.com/misode/Mijnlieff"
   },
   {
     "title": "Tile Dungeon",
-    "image": "tile-dungeon.png",
+    "image": "tile-dungeon.webp",
     "tags": "java",
     "description": "Top-down Java shooter game. This was my first project, made in 2016 when I was starting to learn Java.",
     "link": "https://misoloo.itch.io/tile-dungeon",

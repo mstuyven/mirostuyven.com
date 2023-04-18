@@ -19,7 +19,7 @@ export function ProjectCard({ title, image, tags, description, link, github }: P
 		<div class="flex py-1 px-2 gap-1">
 			{tags?.map(tag => <Tag name={tag} />)}
 		</div>
-		<div class="relative cursor-pointer overflow-hidden">
+		<div class="relative aspect-video bg-zinc-700 cursor-pointer overflow-hidden">
 			<img src={image} class="aspect-video object-cover motion-safe:transition-all group-focus:brightness-[25%] group-focus:scale-150 group-hover:brightness-[25%] group-hover:scale-150" />
 			<p class="absolute inset-0 p-2 flex items-center text-center motion-safe:transition-all scale-0 group-focus:scale-100 group-hover:scale-100">{description}</p>
 		</div>
